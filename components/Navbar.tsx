@@ -3,7 +3,7 @@
 import { Coffee } from 'lucide-react';
 
 export default function Navbar() {
-  const bmacUrl = "buymeacoffee.com/abdessamadbendada"; 
+  const bmacUrl = "https://www.buymeacoffee.com/abdessamadbendada"; 
   return (
     <nav className="w-full py-4 px-8 flex justify-between items-center bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100">
       <div className="flex items-center gap-2">

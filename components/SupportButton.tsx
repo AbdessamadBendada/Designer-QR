@@ -3,7 +3,7 @@
 import { Heart } from 'lucide-react';
 
 export default function SupportButton() {
-  const bmacUrl = "buymeacoffee.com/abdessamadbendada"; 
+  const bmacUrl = "https://www.buymeacoffee.com/abdessamadbendada"; 
 
   return (
     <a 

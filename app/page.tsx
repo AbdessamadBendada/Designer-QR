@@ -40,7 +40,7 @@ export default function Home() {
           <div>
             <div className="text-2xl mb-2">💾</div>
             <h3 className="font-bold text-slate-800">PNG Export</h3>
-            <p className="text-sm text-slate-500 mt-2">Download high-quality images ready for your website or print.</p>
+            <p className="text-sm text-slate-500 mt-2">Download high-quality images ready for your website or print,</p>
           </div>
         </div>
       </main>
